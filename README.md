@@ -69,7 +69,7 @@ cd <your-repo-name>
 
 Open the notebook in Jupyter or Google Colab:
 ```bash
-jupyter notebook blood_donation_analysis_final_with_bonferroni_and_code.ipynb
+jupyter notebook blood_donation_analysis.ipynb
 ```
 
 Run all cells to reproduce the analysis.
