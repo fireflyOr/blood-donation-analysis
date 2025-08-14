@@ -83,8 +83,3 @@ If you use this repository, please cite the relevant statistical methods and dat
 - Department of Statistics Malaysia. (2024). *Blood Donations by State Dataset*.  
 - Koo, T. K., & Li, M. Y. (2016). *A Guideline of Selecting and Reporting Intraclass Correlation Coefficients for Reliability Research*. Journal of Chiropractic Medicine, 15(2), 155–163. https://doi.org/10.1016/j.jcm.2016.02.012  
 - Maćkiewicz, A., & Ratajczak, W. (1993). *Principal components analysis (PCA)*. Computers & Geosciences, 19(3), 303–342.  
-
----
-
-## License
-Specify your license here (e.g., MIT, Apache 2.0).
