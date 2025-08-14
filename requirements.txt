@@ -1,0 +1,14 @@
+math
+matplotlib
+numpy
+pandas
+pingouin
+pymannkendall
+ruptures
+scikit-learn
+scikit-posthocs
+scipy
+seaborn
+statsmodels
+typing
+warnings
